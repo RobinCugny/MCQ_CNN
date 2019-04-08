@@ -21,3 +21,7 @@ good you can replace *best_satisfaction_classifier.h5* by your freshly
 generated *satisfaction_classifier.h5*.
 
 For now the accuracy is about 95% on the test set.
+
+This is an example of the results with a predictable mistake
+
+![examples](results/Examples.png "Some results")
