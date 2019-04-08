@@ -4,4 +4,3 @@ __pycache__/
 data/
 results/Figure_*.png
 results/satisfaction_classifier.h5
-data.tar.gz
